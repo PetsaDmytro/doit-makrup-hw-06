@@ -801,6 +801,10 @@ ul {
   opacity: 1;
 }
 
+.privacy-policy {
+  color: var(--brand-color);
+}
+
 .modal-submit {
   cursor: pointer;
 
